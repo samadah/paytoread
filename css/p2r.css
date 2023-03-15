@@ -1,0 +1,26 @@
+.p2r_donate_area {
+	background-color: #F6F6F6;
+	padding: 12px;
+	border-top: 1px solid #0C9A8E;
+	text-align: center;
+}
+.p2r_highlight {
+	background-color: #0C9A8E; 
+	padding:4px; 
+	color: #000; 
+	font-weight:bold; 
+	font-size:18px;
+	line-height: 16px;
+}
+
+.p2r_btn {
+	color: #fff; 
+	background-color: #0C9A8E; 
+	border: 1px solid #0C9A8E;
+	border-color: #0C9A8E; 
+	font-size: 17px;
+	border-radius: 22px;
+	font-weight: bold;
+	margin: 17px 0px 22px 0px; 
+	text-transform: capitalize;
+}

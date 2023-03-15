@@ -1,0 +1,26 @@
+.d2w_donate_area {
+	background-color: #F6F6F6;
+	padding: 12px;
+	border-top: 1px solid #FFE500;
+	width: 40%;
+}
+.d2w_highlight {
+	background-color: #FFE500; 
+	padding:4px; 
+	color: #000; 
+	font-weight:bold; 
+	font-size:18px;
+	line-height: 16px;
+}
+
+.d2w_btn {
+	color: #000; 
+	background-color: #FFE500; 
+	border: 1px solid #000;
+	border-color: #FFE500; 
+	font-size: 17px;
+	border-radius: 22px;
+	font-weight: bold;
+	margin: 17px 0px 22px 0px; 
+	text-transform: capitalize;
+}
